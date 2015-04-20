@@ -1,4 +1,4 @@
-# checkTCKN
+# checkTCKN ( TC Kimlik No Algoritması ve hesaplaması )
 
 use;
 
