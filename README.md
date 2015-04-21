@@ -6,4 +6,4 @@ $validate = new validate();
 
 $validate->setSsn('12345678910');
 
-echo $validate->checkSsn();
+var_dump($validate->checkSsn());
